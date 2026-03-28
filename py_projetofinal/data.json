@@ -1,0 +1,37 @@
+[
+    {
+        "Nome": "1984",
+        "Autor": "George Orwell",
+        "Gênero": "Romance",
+        "Quantidade": 4,
+        "Link": "https://www.osaberdigital.com.br/wp-content/uploads/2024/11/1984-Classicos-da-literatura-mundial-George-Orwell.pdf"
+    },
+    {
+        "Nome": "Revolução Dos Bichos",
+        "Autor": "George Orwell",
+        "Gênero": "Romance",
+        "Quantidade": 3,
+        "Link": "https://dn710208.ca.archive.org/0/items/orwell-a-revolucao-dos-bichos/orwell%20-%20a%20revolu%C3%A7%C3%A3o%20dos%20bichos.pdf"
+    },
+    {
+        "Nome": "O Senhor Das Moscas",
+        "Autor": "William Golding",
+        "Gênero": "Romance",
+        "Quantidade": 2,
+        "Link": "https://livrariapublica.com.br/livros/senhor-das-moscas-william-golding/"
+    },
+    {
+        "Nome": "O Pequeno Príncipe",
+        "Autor": "Antoine De Saint Exupéry",
+        "Gênero": "Romance",
+        "Quantidade": 6,
+        "Link": "https://ia601600.us.archive.org/22/items/o-livro-tibetano-dos-mortos/Antoine%20de%20Saint%20Exup%C3%A9ry%20-%20O%20Pequeno%20Pr%C3%ADncipe.pdf"
+    },
+    {
+        "Nome": "Programação Web 1",
+        "Autor": "Walker Ataide",
+        "Gênero": "Terror psicológico",
+        "Quantidade": 31,
+        "Link": ""
+    }
+]
